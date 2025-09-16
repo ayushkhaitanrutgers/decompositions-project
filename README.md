@@ -1,6 +1,6 @@
 # Decompositions Project
 
-This is joint work with [Dr. Vijay Ganesh](https://www.cc.gatech.edu/people/vijay-ganesh). 
+This is joint work with [Dr. Vijay Ganesh](https://www.cc.gatech.edu/people/vijay-ganesh). we also gratefully acknowledge the comtribution of many students and faculty who we've discussed this project with, and who've given us much needed help and support. 
 
 This project fully solves a question asked by Terry Tao [here](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/#n2) and [here](https://mathoverflow.net/questions/463937/what-mathematical-problems-can-be-attacked-using-deepminds-recent-mathematical/463940#463940). 
 
