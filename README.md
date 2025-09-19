@@ -2,7 +2,7 @@
 
 This is joint work with [Dr. Vijay Ganesh](https://www.cc.gatech.edu/people/vijay-ganesh). We also gratefully acknowledge the contribution of many students and faculty who we've discussed this project with, and who've given us much needed help and support!
 
-This project attempts an answer to a question asked by Terry Tao [here](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/#n2) and [here](https://mathoverflow.net/questions/463937/what-mathematical-problems-can-be-attacked-using-deepminds-recent-mathematical/463940#463940). 
+This project answers a question asked by Terry Tao [here](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/#n2) and [here](https://mathoverflow.net/questions/463937/what-mathematical-problems-can-be-attacked-using-deepminds-recent-mathematical/463940#463940). 
 
 >[!NOTE]
 >Given two functions $f$ and $g$ defined on a domain $\mathcal{D}$, the notation $f\ll g$ implies that there exists a positive constant $C>0$ such that $$f \leq C*g$$ at every point in $\mathcal{D}$. Assuming that the functions don't blow up at any point in $D$, this is equivalent to $f = O(g)$. 
